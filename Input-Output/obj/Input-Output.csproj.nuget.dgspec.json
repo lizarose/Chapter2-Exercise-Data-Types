@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lizar\\OneDrive\\Desktop\\Chapter2-Data-Types\\Chapter2-Exercise-Data-Types\\Chapter2Exercises\\Chapter2Exercises.csproj": {}
+    "C:\\Users\\lizar\\OneDrive\\Desktop\\Chapter2-Data-Types\\Input-Output\\Input-Output.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lizar\\OneDrive\\Desktop\\Chapter2-Data-Types\\Chapter2-Exercise-Data-Types\\Chapter2Exercises\\Chapter2Exercises.csproj": {
+    "C:\\Users\\lizar\\OneDrive\\Desktop\\Chapter2-Data-Types\\Input-Output\\Input-Output.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lizar\\OneDrive\\Desktop\\Chapter2-Data-Types\\Chapter2-Exercise-Data-Types\\Chapter2Exercises\\Chapter2Exercises.csproj",
-        "projectName": "Chapter2Exercises",
-        "projectPath": "C:\\Users\\lizar\\OneDrive\\Desktop\\Chapter2-Data-Types\\Chapter2-Exercise-Data-Types\\Chapter2Exercises\\Chapter2Exercises.csproj",
+        "projectUniqueName": "C:\\Users\\lizar\\OneDrive\\Desktop\\Chapter2-Data-Types\\Input-Output\\Input-Output.csproj",
+        "projectName": "Input-Output",
+        "projectPath": "C:\\Users\\lizar\\OneDrive\\Desktop\\Chapter2-Data-Types\\Input-Output\\Input-Output.csproj",
         "packagesPath": "C:\\Users\\lizar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lizar\\OneDrive\\Desktop\\Chapter2-Data-Types\\Chapter2-Exercise-Data-Types\\Chapter2Exercises\\obj\\",
+        "outputPath": "C:\\Users\\lizar\\OneDrive\\Desktop\\Chapter2-Data-Types\\Input-Output\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lizar\\AppData\\Roaming\\NuGet\\NuGet.Config"

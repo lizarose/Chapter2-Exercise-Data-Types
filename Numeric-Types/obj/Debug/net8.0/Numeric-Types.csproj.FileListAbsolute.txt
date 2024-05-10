@@ -1,0 +1,14 @@
+C:\Users\lizar\OneDrive\Desktop\Chapter2-Data-Types\Numeric-Types\bin\Debug\net8.0\Numeric-Types.exe
+C:\Users\lizar\OneDrive\Desktop\Chapter2-Data-Types\Numeric-Types\bin\Debug\net8.0\Numeric-Types.deps.json
+C:\Users\lizar\OneDrive\Desktop\Chapter2-Data-Types\Numeric-Types\bin\Debug\net8.0\Numeric-Types.runtimeconfig.json
+C:\Users\lizar\OneDrive\Desktop\Chapter2-Data-Types\Numeric-Types\bin\Debug\net8.0\Numeric-Types.dll
+C:\Users\lizar\OneDrive\Desktop\Chapter2-Data-Types\Numeric-Types\bin\Debug\net8.0\Numeric-Types.pdb
+C:\Users\lizar\OneDrive\Desktop\Chapter2-Data-Types\Numeric-Types\obj\Debug\net8.0\Numeric-Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizar\OneDrive\Desktop\Chapter2-Data-Types\Numeric-Types\obj\Debug\net8.0\Numeric-Types.AssemblyInfoInputs.cache
+C:\Users\lizar\OneDrive\Desktop\Chapter2-Data-Types\Numeric-Types\obj\Debug\net8.0\Numeric-Types.AssemblyInfo.cs
+C:\Users\lizar\OneDrive\Desktop\Chapter2-Data-Types\Numeric-Types\obj\Debug\net8.0\Numeric-Types.csproj.CoreCompileInputs.cache
+C:\Users\lizar\OneDrive\Desktop\Chapter2-Data-Types\Numeric-Types\obj\Debug\net8.0\Numeric-Types.dll
+C:\Users\lizar\OneDrive\Desktop\Chapter2-Data-Types\Numeric-Types\obj\Debug\net8.0\refint\Numeric-Types.dll
+C:\Users\lizar\OneDrive\Desktop\Chapter2-Data-Types\Numeric-Types\obj\Debug\net8.0\Numeric-Types.pdb
+C:\Users\lizar\OneDrive\Desktop\Chapter2-Data-Types\Numeric-Types\obj\Debug\net8.0\Numeric-Types.genruntimeconfig.cache
+C:\Users\lizar\OneDrive\Desktop\Chapter2-Data-Types\Numeric-Types\obj\Debug\net8.0\ref\Numeric-Types.dll
